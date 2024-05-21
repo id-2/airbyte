@@ -8,7 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 jsonschema = "3.2.0"
-requests = "^2.31.0"
+requests = "^2.32.0"
 airbyte-protocol-models = "^1.0.1"
 
 [tool.poetry.group.dev.dependencies]
